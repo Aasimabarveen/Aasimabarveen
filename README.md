@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aasimabarveen
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning MERN full stack web development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I have an interest in coding
+- 🌱 I’m currently learning full-stack web development 
 - 📫 How to reach me ...
 
 <!---
