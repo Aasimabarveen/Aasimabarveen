@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aasimabarveen
-- 👀 I have an interest in coding
+- 👀 An aspiring coder...
 - 🌱 I’m currently learning full-stack web development 
 - 📫 How to reach me ...
 
